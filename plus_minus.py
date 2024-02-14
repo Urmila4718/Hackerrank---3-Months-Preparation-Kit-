@@ -34,7 +34,7 @@ if __name__ == '__main__':
     plusMinus(arr)
 
 
-# input 
+# Input 
 # 6
 # -4 3 -9 0 4 1
 
